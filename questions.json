@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Three angles of a quadrilateral are 80°, 85° and 95°, the fourth angle is",
+    "options": [
+      "90°",
+      "95°",
+      "100°",
+      "120°"
+    ],
+    "correct": 2,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "A quadrilateral has three acute angles, each measuring 75°. Find the measure of the fourth angle.",
+    "options": [
+      "155°",
+      "145°",
+      "130°",
+      "135°"
+    ],
+    "correct": 3,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "ABCD is a quadrilateral, whose angles are ∠A = 5(a+2)°, ∠B = 2(2a+7)°, ∠C = 64°, ∠D = 56°. Determine the value of ∠A.",
+    "options": [
+      "140°",
+      "100°",
+      "130°",
+      "120°"
+    ],
+    "correct": 2,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "Two angles of the quadrilateral are 89° and 113°. If the other two angles are equal. Find the equal angles.",
+    "options": [
+      "79°",
+      "81°",
+      "76°",
+      "73°"
+    ],
+    "correct": 0,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "In the given quadrilateral given below find the value of x",
+    "options": [
+      "85°",
+      "95°",
+      "90°",
+      "185°"
+    ],
+    "correct": 0,
+      "img": "./assests/images/5.jpg"
+  }
+]
